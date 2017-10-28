@@ -1,0 +1,9 @@
+{
+  "name": "jesep",
+  "version": "1.0.0",
+  "description": "Separate Japanese from English",
+  "main": "index.js",
+  "repository": "git@github.com:FujiHaruka/jesep.git",
+  "author": "FujiHaruka",
+  "license": "MIT"
+}
