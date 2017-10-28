@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Separate Japanese from English",
   "main": "index.js",
-  "repository": "git@github.com:FujiHaruka/jesep.git",
+  "repository": "FujiHaruka/jesep",
   "author": "FujiHaruka",
   "license": "MIT"
 }
